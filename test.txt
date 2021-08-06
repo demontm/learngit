@@ -2,8 +2,4 @@ first day learning Git.
 Git is a vertion control system.
 1111111
 222222
-<<<<<<< HEAD
 branch conflict
-=======
-branch conflict
->>>>>>> feature1
