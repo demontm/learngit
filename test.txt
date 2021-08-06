@@ -3,3 +3,4 @@ Git is a vertion control system.
 1111111
 222222
 branch conflict
+no-ff
